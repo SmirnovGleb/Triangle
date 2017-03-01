@@ -1,0 +1,3 @@
+2017-02-28 23:11:38.526 [main] INFO  by.epam.newtriangle.creator.TriangleCreator - Triangle is created
+2017-02-28 23:11:38.527 [main] WARN  by.epam.newtriangle.creator.TriangleCreator - Triangle is not created
+2017-02-28 23:11:38.527 [main] WARN  by.epam.newtriangle.creator.TriangleCreator - Triangle is not created
