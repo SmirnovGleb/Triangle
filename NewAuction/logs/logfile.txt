@@ -1,0 +1,71 @@
+2017-03-27 13:58:45.535 [Thread-14] INFO  by.epam.newauction.entity.Bidder - bidder id = 4 make bid 7232 on the lot stul
+2017-03-27 13:58:45.554 [Thread-13] INFO  by.epam.newauction.entity.Bidder - bidder id = 3 make bid 11473 on the lot stul
+2017-03-27 13:58:45.810 [Thread-6] INFO  by.epam.newauction.entity.Bidder - bidder id = 0 make bid 10715 on the lot stul
+2017-03-27 13:58:45.944 [Thread-12] INFO  by.epam.newauction.entity.Bidder - bidder 2 hasn't enough money!
+2017-03-27 13:58:45.945 [Thread-12] INFO  by.epam.newauction.entity.Bidder - bidder 2 don't need it!
+2017-03-27 13:58:46.027 [Thread-11] INFO  by.epam.newauction.entity.Bidder - bidder id = 1 make bid 7397 on the lot stul
+2017-03-27 13:58:46.028 [Thread-11] INFO  by.epam.newauction.logic.Main - *** the end of the round ***
+2017-03-27 13:58:46.110 [Thread-14] INFO  by.epam.newauction.entity.Bidder - bidder 4 hasn't enough money!
+2017-03-27 13:58:46.110 [Thread-14] INFO  by.epam.newauction.entity.Bidder - bidder 4 don't need it!
+2017-03-27 13:58:46.159 [Thread-6] INFO  by.epam.newauction.entity.Bidder - bidder 0 hasn't enough money!
+2017-03-27 13:58:46.159 [Thread-6] INFO  by.epam.newauction.entity.Bidder - bidder 0 don't need it!
+2017-03-27 13:58:46.202 [Thread-11] INFO  by.epam.newauction.entity.Bidder - bidder 1 hasn't enough money!
+2017-03-27 13:58:46.202 [Thread-11] INFO  by.epam.newauction.entity.Bidder - bidder 1 don't need it!
+2017-03-27 13:58:46.288 [Thread-12] INFO  by.epam.newauction.entity.Bidder - bidder 2 hasn't enough money!
+2017-03-27 13:58:46.288 [Thread-12] INFO  by.epam.newauction.entity.Bidder - bidder 2 don't need it!
+2017-03-27 13:58:46.660 [Thread-13] INFO  by.epam.newauction.entity.Bidder - bidder 3 hasn't enough money!
+2017-03-27 13:58:46.660 [Thread-13] INFO  by.epam.newauction.entity.Bidder - bidder 3 don't need it!
+2017-03-27 13:58:46.660 [Thread-13] INFO  by.epam.newauction.logic.Main - *** the end of the round ***
+2017-03-27 13:58:46.724 [Thread-13] INFO  by.epam.newauction.entity.Bidder - bidder id = 3 make bid 7877 on the lot divan
+2017-03-27 13:58:46.811 [Thread-6] INFO  by.epam.newauction.entity.Bidder - bidder 0 hasn't enough money!
+2017-03-27 13:58:46.811 [Thread-6] INFO  by.epam.newauction.entity.Bidder - bidder 0 don't need it!
+2017-03-27 13:58:46.824 [Thread-12] INFO  by.epam.newauction.entity.Bidder - bidder id = 2 make bid 8852 on the lot divan
+2017-03-27 13:58:46.892 [Thread-14] INFO  by.epam.newauction.entity.Bidder - bidder 4 hasn't enough money!
+2017-03-27 13:58:46.892 [Thread-14] INFO  by.epam.newauction.entity.Bidder - bidder 4 don't need it!
+2017-03-27 13:58:47.005 [Thread-11] INFO  by.epam.newauction.entity.Bidder - bidder 1 hasn't enough money!
+2017-03-27 13:58:47.005 [Thread-11] INFO  by.epam.newauction.entity.Bidder - bidder 1 don't need it!
+2017-03-27 13:58:47.006 [Thread-11] INFO  by.epam.newauction.logic.Main - *** the end of the round ***
+2017-03-27 13:58:47.069 [Thread-6] INFO  by.epam.newauction.entity.Bidder - bidder id = 0 make bid 10481 on the lot bayda
+2017-03-27 13:58:47.241 [Thread-11] INFO  by.epam.newauction.entity.Bidder - bidder id = 1 make bid 6990 on the lot bayda
+2017-03-27 13:58:47.252 [Thread-13] INFO  by.epam.newauction.entity.Bidder - bidder id = 3 make bid 6027 on the lot bayda
+2017-03-27 13:58:47.494 [Thread-14] INFO  by.epam.newauction.entity.Bidder - bidder id = 4 make bid 3677 on the lot bayda
+2017-03-27 13:58:47.691 [Thread-12] INFO  by.epam.newauction.entity.Bidder - bidder 2 hasn't enough money!
+2017-03-27 13:58:47.691 [Thread-12] INFO  by.epam.newauction.entity.Bidder - bidder 2 don't need it!
+2017-03-27 13:58:47.692 [Thread-12] INFO  by.epam.newauction.logic.Main - *** the end of the round ***
+2017-03-27 13:58:47.747 [Thread-6] INFO  by.epam.newauction.entity.Bidder - bidder id = 0 make bid 8930 on the lot gitara
+2017-03-27 13:58:48.065 [Thread-12] INFO  by.epam.newauction.entity.Bidder - bidder 2 hasn't enough money!
+2017-03-27 13:58:48.065 [Thread-12] INFO  by.epam.newauction.entity.Bidder - bidder 2 don't need it!
+2017-03-27 13:58:48.144 [Thread-11] INFO  by.epam.newauction.entity.Bidder - bidder id = 1 make bid 3565 on the lot gitara
+2017-03-27 13:58:48.295 [Thread-13] INFO  by.epam.newauction.entity.Bidder - bidder id = 3 make bid 4170 on the lot gitara
+2017-03-27 13:58:48.367 [Thread-14] INFO  by.epam.newauction.entity.Bidder - bidder id = 4 make bid 3174 on the lot gitara
+2017-03-27 13:58:48.367 [Thread-14] INFO  by.epam.newauction.logic.Main - *** the end of the round ***
+2017-03-27 13:58:48.515 [Thread-12] INFO  by.epam.newauction.entity.Bidder - bidder id = 2 make bid 5476 on the lot krovat
+2017-03-27 13:58:48.668 [Thread-6] INFO  by.epam.newauction.entity.Bidder - bidder id = 0 make bid 5212 on the lot krovat
+2017-03-27 13:58:48.944 [Thread-11] INFO  by.epam.newauction.entity.Bidder - bidder id = 1 make bid 1977 on the lot krovat
+2017-03-27 13:58:48.990 [Thread-14] INFO  by.epam.newauction.entity.Bidder - bidder id = 4 make bid 3061 on the lot krovat
+2017-03-27 13:58:49.063 [Thread-13] INFO  by.epam.newauction.entity.Bidder - bidder id = 3 make bid 3961 on the lot krovat
+2017-03-27 13:58:49.063 [Thread-13] INFO  by.epam.newauction.logic.Main - *** the end of the round ***
+2017-03-27 13:58:49.404 [Thread-13] INFO  by.epam.newauction.entity.Bidder - bidder id = 3 make bid 3166 on the lot telefon
+2017-03-27 13:58:49.529 [Thread-11] INFO  by.epam.newauction.entity.Bidder - bidder 1 hasn't enough money!
+2017-03-27 13:58:49.529 [Thread-11] INFO  by.epam.newauction.entity.Bidder - bidder 1 don't need it!
+2017-03-27 13:58:49.554 [Thread-6] INFO  by.epam.newauction.entity.Bidder - bidder id = 0 make bid 4982 on the lot telefon
+2017-03-27 13:58:49.570 [Thread-12] INFO  by.epam.newauction.entity.Bidder - bidder id = 2 make bid 4467 on the lot telefon
+2017-03-27 13:58:49.738 [Thread-14] INFO  by.epam.newauction.entity.Bidder - bidder id = 4 make bid 2855 on the lot telefon
+2017-03-27 13:58:49.738 [Thread-14] INFO  by.epam.newauction.logic.Main - *** the end of the round ***
+2017-03-27 13:58:49.750 [Thread-12] INFO  by.epam.newauction.entity.Bidder - bidder id = 2 make bid 4256 on the lot dom
+2017-03-27 13:58:49.837 [Thread-11] INFO  by.epam.newauction.entity.Bidder - bidder 1 hasn't enough money!
+2017-03-27 13:58:49.837 [Thread-11] INFO  by.epam.newauction.entity.Bidder - bidder 1 don't need it!
+2017-03-27 13:58:50.119 [Thread-13] INFO  by.epam.newauction.entity.Bidder - bidder id = 3 make bid 2702 on the lot dom
+2017-03-27 13:58:50.280 [Thread-14] INFO  by.epam.newauction.entity.Bidder - bidder id = 4 make bid 2176 on the lot dom
+2017-03-27 13:58:50.306 [Thread-6] INFO  by.epam.newauction.entity.Bidder - bidder 0 hasn't enough money!
+2017-03-27 13:58:50.306 [Thread-6] INFO  by.epam.newauction.entity.Bidder - bidder 0 don't need it!
+2017-03-27 13:58:50.307 [Thread-6] INFO  by.epam.newauction.logic.Main - *** the end of the round ***
+2017-03-27 13:58:50.378 [Thread-13] INFO  by.epam.newauction.entity.Bidder - bidder 3 hasn't enough money!
+2017-03-27 13:58:50.378 [Thread-13] INFO  by.epam.newauction.entity.Bidder - bidder 3 don't need it!
+2017-03-27 13:58:50.466 [Thread-12] INFO  by.epam.newauction.entity.Bidder - bidder 2 hasn't enough money!
+2017-03-27 13:58:50.466 [Thread-12] INFO  by.epam.newauction.entity.Bidder - bidder 2 don't need it!
+2017-03-27 13:58:50.482 [Thread-6] INFO  by.epam.newauction.entity.Bidder - bidder id = 0 make bid 4234 on the lot rom
+2017-03-27 13:58:50.662 [Thread-11] INFO  by.epam.newauction.entity.Bidder - bidder id = 1 make bid 1318 on the lot rom
+2017-03-27 13:58:50.904 [Thread-14] INFO  by.epam.newauction.entity.Bidder - bidder id = 4 make bid 1602 on the lot rom
+2017-03-27 13:58:50.904 [Thread-14] INFO  by.epam.newauction.logic.Main - *** the end of the round ***
+2017-03-27 13:58:53.471 [main] INFO  by.epam.newauction.logic.Main - Bidder id = 1 has bought stul   ||   Auction has bought stol   ||   Bidder id = 2 has bought divan   ||   Bidder id = 4 has bought bayda   ||   Bidder id = 4 has bought gitara   ||   Bidder id = 3 has bought krovat   ||   Bidder id = 4 has bought telefon   ||   Bidder id = 4 has bought dom   ||   Bidder id = 4 has bought rom   ||   

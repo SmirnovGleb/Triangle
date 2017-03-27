@@ -1,0 +1,14 @@
+lot stul 50
+lot stol 50
+lot divan 50
+lot bayda 50
+lot gitara 50
+bidder 12000
+lot krovat 50
+lot telefon 50
+lot dom 50
+lot rom 50
+bidder 10000
+bidder 9000
+bidder 15000
+bidder 9500
